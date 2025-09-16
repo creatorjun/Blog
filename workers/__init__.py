@@ -1,3 +1,3 @@
-from .news_worker import NaverNewsWorker
+from .worker import Worker
 
-__all__ = ['NaverNewsWorker']
+__all__ = ['Worker']
