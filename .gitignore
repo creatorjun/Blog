@@ -1,4 +1,5 @@
 venv/
+dist/
 config/
 */__pycache__/
 *.ini
